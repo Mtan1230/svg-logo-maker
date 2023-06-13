@@ -6,6 +6,10 @@
 
 This is a Node.js command-line application that takes in user input to generate a logo as an SVG file. The user can quickly create a simple logo for the projects.  
 
+## Links
+
+[Link to walkthrough video](https://drive.google.com/file/d/181YJlgHjWcVA0qjSbmbDEbc_T9tON-fy/view)
+
 ## Table of Contents  
 - [Installation](#installation)
 - [Usage](#usage)
